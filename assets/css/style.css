@@ -549,7 +549,7 @@ template {
     padding-top: 275px;
     padding-bottom: 160px;
     text-align: center;
-    background-image: url("/assets/images/home-img.jpg");
+    background-image: url("../images/home-img.jpg");
     background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
@@ -880,7 +880,7 @@ template {
 }
 
 .contact {
-    background-image: url(/assets/images/Map_Image.png);
+    background-image: url(../images/Map_Image.png);
     background-size: cover;
     background-color: #222222;
     background-repeat: no-repeat;
